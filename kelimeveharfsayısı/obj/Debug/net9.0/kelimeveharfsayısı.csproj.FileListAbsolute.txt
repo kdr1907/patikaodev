@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\bin\Debug\net9.0\kelimeveharfsayısı.exe
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\bin\Debug\net9.0\kelimeveharfsayısı.deps.json
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\bin\Debug\net9.0\kelimeveharfsayısı.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\bin\Debug\net9.0\kelimeveharfsayısı.dll
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\bin\Debug\net9.0\kelimeveharfsayısı.pdb
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.sourcelink.json
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.dll
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\refint\kelimeveharfsayısı.dll
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.pdb
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\kelimeveharfsayısı.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev\kelimeveharfsayısı\obj\Debug\net9.0\ref\kelimeveharfsayısı.dll

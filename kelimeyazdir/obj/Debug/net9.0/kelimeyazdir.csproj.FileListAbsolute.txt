@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\bin\Debug\net9.0\kelimeyazdir.exe
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\bin\Debug\net9.0\kelimeyazdir.deps.json
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\bin\Debug\net9.0\kelimeyazdir.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\bin\Debug\net9.0\kelimeyazdir.dll
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\bin\Debug\net9.0\kelimeyazdir.pdb
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.sourcelink.json
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.dll
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\refint\kelimeyazdir.dll
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.pdb
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\kelimeyazdir.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev\kelimeyazdir\obj\Debug\net9.0\ref\kelimeyazdir.dll
