@@ -1,0 +1,15 @@
+c:\Users\kdrok\Desktop\patikaodev\tambolen\bin\Debug\net9.0\tambolen.exe
+c:\Users\kdrok\Desktop\patikaodev\tambolen\bin\Debug\net9.0\tambolen.deps.json
+c:\Users\kdrok\Desktop\patikaodev\tambolen\bin\Debug\net9.0\tambolen.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev\tambolen\bin\Debug\net9.0\tambolen.dll
+c:\Users\kdrok\Desktop\patikaodev\tambolen\bin\Debug\net9.0\tambolen.pdb
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.sourcelink.json
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.dll
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\refint\tambolen.dll
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.pdb
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\tambolen.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev\tambolen\obj\Debug\net9.0\ref\tambolen.dll

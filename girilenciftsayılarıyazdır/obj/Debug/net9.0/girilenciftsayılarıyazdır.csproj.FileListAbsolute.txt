@@ -12,3 +12,4 @@ c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\
 c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.pdb
 c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.genruntimeconfig.cache
 c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\ref\girilenciftsayılarıyazdır.dll
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.sourcelink.json
