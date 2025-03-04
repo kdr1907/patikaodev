@@ -1,0 +1,14 @@
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\bin\Debug\net9.0\girilenciftsayılarıyazdır.exe
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\bin\Debug\net9.0\girilenciftsayılarıyazdır.deps.json
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\bin\Debug\net9.0\girilenciftsayılarıyazdır.runtimeconfig.json
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\bin\Debug\net9.0\girilenciftsayılarıyazdır.dll
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\bin\Debug\net9.0\girilenciftsayılarıyazdır.pdb
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.dll
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\refint\girilenciftsayılarıyazdır.dll
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.pdb
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\girilenciftsayılarıyazdır.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\patikaodev\girilenciftsayılarıyazdır\obj\Debug\net9.0\ref\girilenciftsayılarıyazdır.dll
